@@ -1,0 +1,41 @@
+#container{
+    text-align: center;
+    background-color: rgb(229, 232, 235);
+    padding:40px;
+    margin:50px;
+    border-radius: 15px;
+    box-shadow: 10px 10px rgb(90, 87, 87) ;
+    
+}
+h1{
+    color: rgb(72, 76, 213);
+    text-decoration:solid;
+}
+#labe{
+    font-weight: bolder;
+
+}
+#numOfDice{
+    text-align: center;
+    font-weight: bolder;
+    margin: 1em;
+    color: rgb(102, 94, 94);
+}
+button{
+    color: rgb(253, 253, 254);
+    background-color: rgb(79, 21, 11);
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(145, 47, 30);
+}
+#diceResult{
+    margin:24px;
+}
+#diceimages img{
+    width:70px;
+    margin:10px;
+
+
+    
+}
